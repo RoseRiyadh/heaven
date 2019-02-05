@@ -1,0 +1,154 @@
+div#logo { box-shadow:3px 3px 3px #3B3B98; 
+	text-align:center;
+	color:#3B3B98;
+	background-color:white; 
+	top:5px; left:0px;
+	font-family:Comic Sans MS;  
+	height:10%;		width:50%;
+	font-size:65%;
+	position:sticky ;
+	left:55%; z-index:10;
+}
+#logom {
+	width: 30px; height:30px; 
+}
+body {
+	background-image:url(stars.gif);
+	color:#3B3B98;
+}
+div#begin {
+	font-family:Cursive;
+	box-shadow:3px 3px 3px #3B3B98;
+	background-color:white;
+	width:500px; height:100px;
+}
+div#description {
+	width:600px; height:350px;
+	box-shadow:3px 3px 3px #3B3B98;
+	background-color:white;
+	font-family:"Courier New", Courier, monospace;
+	font-size:120%;
+}
+#comp {
+	width:600px; height:300px;
+}
+div#comppic1 {
+	box-shadow:3px 3px 3px #3B3B98;
+	background-color:white;
+	width:600px; height:300px;
+	position:absolute;
+	top: 200px; left:700px;
+}
+#comp2 {
+width:600px; height:300px; 
+}
+
+div#comppic2 {
+	box-shadow:3px 3px 3px #3B3B98;
+	background-color:white;
+	width:600px; height:300px;
+	position:absolute;
+	top: 530px; left:700px;
+}
+
+#comp3 {
+	width:600px; height:300px; 
+}
+
+div#comppic3 {
+	box-shadow:3px 3px 3px #3B3B98;
+	background-color:white;
+	width:600px; height:300px;
+	position:absolute;
+	top: 860px; left:700px;
+}
+div#description1 {
+	width:600px; height:350px;
+	box-shadow:3px 3px 3px #3B3B98;
+	background-color:white;
+	font-family:"Courier New", Courier, monospace;
+font-size:120%;}
+
+div#description2 {
+	width:600px; height:350px;
+	box-shadow:3px 3px 3px #3B3B98;
+	background-color:white;
+	font-family:"Courier New", Courier, monospace;
+font-size:120%;}
+	
+div#description3 {
+	width:600px; height:350px;
+	box-shadow:3px 3px 3px #3B3B98;
+	background-color:white;
+	font-family:"Courier New", Courier, monospace;
+font-size:120%;}
+
+div#description0 {
+	width:600px; height:350px;
+	box-shadow:3px 3px 3px #3B3B98;
+	background-color:white;
+	font-family:"Courier New", Courier, monospace;
+font-size:120%;}
+
+div#hiring {
+	width:600px; height:450px;
+	box-shadow:3px 3px 3px #3B3B98;
+	background-color:white;
+	font-family:"Courier New", Courier, monospace;
+font-size:120%; }
+
+#button { color:#3B3B98;
+	background-color:white;
+	box-shadow:3px 3px 3px #3B3B98;
+	position:relative;
+	left:450px;
+}
+#import {
+	color:#3B3B98;
+	background-color:white;
+	box-shadow:3px 3px 3px #3B3B98;
+}
+
+#name {
+	color:#3B3B98;
+	background-color:white;
+	box-shadow:3px 3px 3px #3B3B98;
+}
+#texting {
+	color:#3B3B98;
+	background-color:white;
+	box-shadow:3px 3px 3px #3B3B98;
+	width:500px;
+	height:50px;
+}
+
+#name2 {
+	color:#3B3B98;
+	background-color:white;
+	box-shadow:3px 3px 3px #3B3B98;
+	position:relative;
+	left:450px;
+}
+#insta {
+	width:40px; height:40px; 
+}
+div#end {
+	box-shadow:3px 3px 3px #3B3B98;
+	background-color:white;
+	font-family:"Courier New", Courier, monospace;
+font-size:120%;
+}
+div#description4 {
+	width:600px; height:100px;
+	box-shadow:3px 3px 3px #3B3B98;
+	background-color:white;
+	font-family:"Courier New", Courier, monospace;
+	font-size:120%;
+}
+
+
+
+
+
+
+
